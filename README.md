@@ -23,4 +23,5 @@ docker run -it --name my_container sigmoid_base /bin/bash
 Запущен скрипт с тестами **perf.py**, который сравнивает результаты биндинга с результатами питоновских библиотек **Math** и **Numpy**:<br/>
 <p align="center"><img src=https://github.com/KateAntropova-4415/bindings/blob/main/screenshots/photo1.PNG /></p>
 <br/> 
+
 ## Радуемся, что всё работает, и надеемся на хорошую оценку!
